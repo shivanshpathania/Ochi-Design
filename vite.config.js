@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/ochi/',
+  base: '/Ochi-Design/', 
   plugins: [react(),
     tailwindcss()
   ],
